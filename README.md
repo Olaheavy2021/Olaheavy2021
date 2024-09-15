@@ -1,6 +1,6 @@
 👋 Hi there! I'm Sunkanmi Olawuwo, a Full-Stack Developer passionate about building scalable web applications and exploring the latest in web technologies. 
 
-🔧 I specialize in C#,.Net Core, Javascript, Nest.js, Angular and React, with a keen interest in developing performant backend systems and delightful front-end experiences.
+🔧 I specialize in C#,.Net Core, Typescript, Javascript, Nest.js, Angular and React, with a keen interest in developing performant backend systems and delightful front-end experiences.
 
 🌱 Currently learning about cloud-native architectures and diving deep into Kubernetes and Docker.
 
